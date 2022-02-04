@@ -1,4 +1,4 @@
-# Clone to apple webpage
+# Clone to Apple webpage
 
 This page is created using React.js and TailwindCSS
 
